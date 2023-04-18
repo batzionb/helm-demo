@@ -6,3 +6,4 @@
 #ocpArch x86_64
 #APIPublishingStrategy LoadBalancer
 #baseDnsDomain
+testBoolean: true
