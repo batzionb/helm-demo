@@ -7,3 +7,5 @@
 #APIPublishingStrategy LoadBalancer
 #baseDnsDomain
 testBoolean: true
+testNumber: 123.3
+testInteger: 123
