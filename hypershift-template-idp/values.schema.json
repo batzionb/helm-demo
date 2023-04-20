@@ -5,6 +5,10 @@
     "ocpVersion": {
       "type": "string"
     },
+    "testBoolean": {
+       "type": "boolean",
+       "description": "test boolean"         
+    },
     "testNumber": {
        "type": "number",
        "description": "test number"
