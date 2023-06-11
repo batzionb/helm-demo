@@ -17,7 +17,7 @@ spec:
   platform:
     type: Agent
     agent:
-      agentNamespace: tj-one
+      agentNamespace: batzenv1
   infraID: {{ .Release.Name }}
   dns:
     baseDomain: rw.com
